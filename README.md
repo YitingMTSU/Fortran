@@ -4,7 +4,7 @@ If you want to use the makefile, please delete the part after "_".
 For example:  
 change  
 makefile_Householder  -->  makefile  
-Then type "make" interminal   
+Then type "make" in terminal   
 
 Project1:Leastsquare.f90. (CSCI 6020 Data Abstraction & Programming)   
 Data file: leastSquares.dat.  
